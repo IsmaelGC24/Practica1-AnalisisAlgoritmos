@@ -113,4 +113,4 @@ This produced a 50-75% reduction in nodes explored across the test graphs.
 
 ## About
 
-Individual assignment — Analysis and Design of Algorithms, EAFIT 2025-1.
+Individual assignment — Analysis and Design of Algorithms, EAFIT 2026-1.
