@@ -1,0 +1,44 @@
+# ── Compiled binaries ──────────────────────────────────────
+EjercicioFuerzaBruta/EjercicioFuerzaBruta
+EjercicioFuerzaBruta/EjercicioFuerzaBruta.exe
+EjercicioBacktracking/EjercicioBacktracking
+EjercicioBacktracking/EjercicioBacktracking.exe
+*.out
+*.o
+*.obj
+
+# ── Build artifacts ────────────────────────────────────────
+*.dSYM/
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# ── Results folder (generated at runtime) ─────────────────
+# Comment these lines out if you WANT to track result files
+EjercicioFuerzaBruta/results/
+EjercicioBacktracking/results/
+
+# ── VS Code ────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── macOS ──────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Windows ────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ── Python (if any scripts) ────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Temp / logs ────────────────────────────────────────────
+*.log
+*.tmp
+*.swp

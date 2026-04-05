@@ -1,0 +1,16 @@
+=== Ejercicio 2 - Coloracion de Grafos ===
+n=2  k=3
+
+--- Backtracking ---
+Coloraciones validas : 6
+Nodos explorados     : 10
+Tiempo (ms)          : 0.0045
+
+--- Fuerza Bruta ---
+Coloraciones validas : 6
+Nodos explorados     : 9
+Tiempo (ms)          : 0.0078
+
+Primera solucion (BT):
+  color[0] = 1
+  color[1] = 2
